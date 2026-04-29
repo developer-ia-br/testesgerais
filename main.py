@@ -1,5 +1,5 @@
-def app:
+def main():
     print("Ola Mundo")
 
-if __name__=='main':
-    app()
+if __name__=='__main__':
+    main()
